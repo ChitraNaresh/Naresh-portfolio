@@ -1,0 +1,61 @@
+[
+    {
+        "projectName":"MovieX Website",
+        "projectTitle":"Proficiently designed and implemented the MovieX website using HTML, CSS, and JavaScript, with a strong emphasis on user interface and experience.Leveraged React.js to create dynamic and responsive user interfaces, enhancing the overall functionality of the MovieX platform.",
+        "projectBanner":"https://cdn.dribbble.com/users/1474676/screenshots/6844561/movie_app_dribbble_shot_4x.png?resize=400x300&vertical=center",
+        "technologies":["HTML5","CSS3","Javascript","React","Redux"
+        ],
+        "demoLink":"https://exquisite-chimera-c5e617.netlify.app/",
+        "sourseLink":"https://github.com/ChitraNaresh/MovieX.git"
+    },
+    {
+        "projectName":"NxtTrends",
+        "projectTitle":"Developed a cutting-edge e-commerce platform inspired by Amazon and Flipkart.Built pages for Login, Products, and Product details with React Router,React components, form inputs, and event handlers.Enabled secure authentication and authorization with JWT tokens and REST API calls.",
+        "projectBanner":"https://static.vecteezy.com/system/resources/thumbnails/004/299/835/small/online-shopping-on-phone-buy-sell-business-digital-web-banner-application-money-advertising-payment-ecommerce-illustration-search-free-vector.jpg",
+        "technologies":[
+            "HTML5","CSS3","Javascript","React"
+        ],
+        "demoLink":"https://ecommercecom.ccbp.tech",
+        "sourseLink":"https://github.com/ChitraNaresh/NxtTrendzApplication.git"
+    },
+    {
+        "projectName":"Covid19 Dashboard",
+        "projectTitle":"Implemented a responsive Covid Dashboard where users can see confirmed,active, recovered and deceased cases in India state wise. Users also can search by state and see state specific cases info with different types of graphs.",
+        "projectBanner":"https://techcommunity.microsoft.com/t5/image/serverpage/image-id/381052i3444439C3F789B90/image-size/large?v=v2&px=999",
+        "technologies":[
+            "HTML5","CSS3","Javascript","React","Figma"
+        ],
+        "demoLink":"https://covid19app21.ccbp.tech",
+        "sourseLink":""
+    },
+    {
+        "projectName":"Doctor Consultancy",
+        "projectTitle":"Orchestrated the end-to-end development of a comprehensive doctor consultancy platform using HTML, CSS, JavaScript, React.js, Redux, Node.js, and MongoDB, ensuring a seamless and secure user experience.",
+        "projectBanner":"https://img.freepik.com/free-vector/flat-design-medical-clinic-sale-banner_23-2149641439.jpg",
+        "technologies":[
+            "HTML5","CSS3","Javascript","React","Nodejs","Expressjs","MongoDB"
+        ],
+        "demoLink":"",
+        "sourseLink":""
+    },
+    {
+        "projectName":"Jobby App",
+        "projectTitle":"Leveraged a combination of frontend technologies, including React.js, to build a robust jobs platform with a focus on efficient data presentation and seamless user navigation.",
+        "projectBanner":"https://static.vecteezy.com/system/resources/previews/001/871/548/original/people-who-are-looking-for-work-by-looking-at-the-letters-getting-a-job-concept-ilustration-can-use-for-landing-page-template-ui-web-mobile-app-poster-banner-flyer-background-website-free-vector.jpg",
+        "technologies":[
+            "HTML5","CSS3","Javascript","React"
+        ],
+        "demoLink":"https://nareshjobsstore.ccbp.tech/",
+        "sourseLink":"https://github.com/ChitraNaresh/Jobby-App.git"
+    },
+    {
+        "projectName":"Fruits Ecommerce",
+        "projectTitle":"Designed and developed key features of the fruits e-commerce site, leveraging a modern tech stack to create an efficient and enjoyable shopping experience for users through intuitive navigation and engaging product displays.",
+        "projectBanner":"https://png.pngtree.com/background/20210711/original/pngtree-green-small-fresh-fruit-and-vegetable-promotion-e-commerce-banner-picture-image_1117115.jpg",
+        "technologies":[
+            "HTML5","CSS3","Javascript","React"
+        ],
+        "demoLink":"https://teal-syrniki-acc16c.netlify.app/",
+        "sourseLink":"https://github.com/ChitraNaresh/Reeco2.git"
+    }
+]

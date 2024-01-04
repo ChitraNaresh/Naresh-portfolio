@@ -1,0 +1,64 @@
+@import "../../vars.css";
+
+.contactSection{
+    background-color: #19376D;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 600px;
+}
+.contactUsContainer{
+    margin-right: 10%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 900px;
+}
+.contactText{
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+.contactDes{
+    color: var(--color-text);
+    font-size: 15px;
+    margin-top: 10px;
+}
+.contactHeadingCard{
+    margin-right: 50px;
+}
+.socialLinks{
+    text-decoration: none;
+    font-size: 15px;
+    color: #fff;
+}
+.socialLinks:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.footerIcon{
+    height: 30px;
+    width: 30px;
+    color: lightcoral;
+    margin-right: 10px;
+}
+.socialIconsCard{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+@media screen and (max-width:830px) {
+    .contactUsContainer{
+         flex-direction: column;
+    }
+    .contactSection{
+        margin-top: 30px;
+    }
+    .contactDes{
+        margin-bottom: 20px;
+    }
+}

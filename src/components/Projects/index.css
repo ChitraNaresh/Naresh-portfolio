@@ -1,0 +1,78 @@
+.projectSection{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+}
+.projectText{
+    color: #fff;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+.projectName{
+    font-size: 20px;
+    margin-top: 10px;
+    color: #fff;
+}
+.projectDes{
+    font-size: 15px;
+    margin-top: 10px;
+    color: #fff;
+}
+.mainProjectsContainer{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 3%;
+}
+.eachPojectCard{
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background: linear-gradient(to bottom,#576cbc,#19376d);
+}
+.skillsCard{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.projectImage{
+   width: 100%;
+   border-radius: 20px;
+   min-height: 200px;
+   max-height: 200px;
+}.eachSkill{
+    color: #fff;
+    font-size: 15px;
+    background-color:#0b2447;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.linksBtn{
+    text-decoration: none;
+    background-color: #576cbc;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 5px 15px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.linksBtn:hover{
+    background-color: transparent;
+    border:1px solid #fff;
+}
+@media screen and (max-width:830px) {
+ .mainProjectsContainer{
+    grid-template-columns: 1fr;
+ }   
+}
+
+.showCard{
+    text-align: center;
+}

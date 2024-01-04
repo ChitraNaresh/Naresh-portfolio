@@ -1,0 +1,47 @@
+@import "../../vars.css";
+
+.experienceSection{
+     color: var(--color-text);
+     margin-top: 79px;
+     margin-left: 10%;
+     margin-right: 10%;
+}
+.experienceText{
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+.experienceContent{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 32px;
+    justify-content: center;
+    max-width: 800px;
+}
+.skillImg{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+.skillName{
+    color: var(--color-text);
+    font-size: 10px;
+    font-weight: 700;
+}
+.experienceSkills{
+    background-color: #19376D;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px; 
+}
+.skillsContainer{
+    display: flex;
+    justify-content: center;
+}
